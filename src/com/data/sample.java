@@ -19,7 +19,7 @@ public class sample {
 	    	  ReadFlatFile(sPath);
 	    	  break;
 	      case 2:GenerateFlatFile();break;
-	      default:System.out.println("Wrong Input");
+	      default:System.out.println("Wron");
 	      }
 		}
 		public static void ReadFlatFile(String fPath) throws IOException
